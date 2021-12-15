@@ -3,8 +3,11 @@
     <li>
         <strong>SOBRE O PROJETO</strong>
     </li>
-    <li>
-        A ênfase deste projeto trata-se de entender o funcionamento de um Malware da classe Ransomware dentro de um Sistema Operacional. Será desenvolvido e estudado um Script de Ransomware através da linguagem de programação Python utilizando um frameworks de criptografia, o PyAes.
+    <ul>
+        <li>
+            A ênfase deste projeto trata-se de entender o funcionamento de um Malware da classe Ransomware dentro de um Sistema Operacional. Será desenvolvido e estudado um Script de Ransomware através da linguagem de programação Python utilizando um frameworks de criptografia, o PyAes.
+        </li>
+    </ul>
     </li>
     <p>
     <li>
